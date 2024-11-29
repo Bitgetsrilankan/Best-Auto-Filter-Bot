@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pymongo import MongoClient
 from script import WELCOME_MESSAGE, NO_RESULTS_MESSAGE, FILE_NOT_FOUND_MESSAGE, CHANNEL_ID
 
-BOT_TOKEN = "7568905114:AAHfzkfoZUmrDEW5u6mIbquhvxLV3wWqEtM"
-API_ID = "23887078"
-API_HASH = "1fa6290ce22585be6c543d0ef18e12a9"
+BOT_TOKEN = "7806693412:AAEUlgurG0t41lsMDZ75GvE4DgDcwQU9qbY"
+API_ID = "24870301"
+API_HASH = "5bcc6d5a90ad19da0989d635a36942af"
 MONGO_URI = "mongodb+srv://bitget:20030928@cluster0.jk909.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Initialize the bot and database
